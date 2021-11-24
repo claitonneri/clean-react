@@ -5,6 +5,9 @@
   "repository": "https://github.com/claitonneri/clean-react.git",
   "author": "claitonneri <claitondidone@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^27.0.3",
     "@types/node": "^16.11.10",
